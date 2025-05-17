@@ -44,10 +44,12 @@
 
 ## Ejecución
 >La ejecución puede resultar en errores, esto sucede cuando en la primera ronda, jugador uno sacó su carta, jugador dos no, y la ronda intenta definirse.
-![ejecuciónCódigo](https://github.com/user-attachments/assets/eb0cc345-c853-4697-a9a0-698c853740ad)
+>
+>![ejecuciónCódigo](https://github.com/user-attachments/assets/eb0cc345-c853-4697-a9a0-698c853740ad)
 
 >A la hora de ejecutar el código, este se ejecuta de forma desordenada  por no tener un correcto control de los procesos intervinientes, como podemos ver en este caso donde el jugador 2 terminó el juego antes de terminar la ronda 3.
-![ejecuciónCódigo2](https://github.com/user-attachments/assets/76c9b92f-580a-4075-affe-7b0b2ab728df)
+>
+>![ejecuciónCódigo2](https://github.com/user-attachments/assets/76c9b92f-580a-4075-affe-7b0b2ab728df)
 
 ## Sección Crítica
 >[!NOTE]
